@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Pandey
-- 👀 I’m interested in bringing up innovative Ideas and Solutions.
-- 🌱 I’m currently learning advaned applied intelligence.
-- 💞️ I’m looking to collaborate on advanved analytics.
+- 👀 I’m interested in bringing up innovative Ideas and approaches.
+- 🌱 I’m currently learning advanced applied intelligence.
+- 💞️ I’m looking to collaborate on some exciting Projects in advanved analytics/NLP/ML/DL.
 - 📫 How to reach me ...+91-9871609666
 
 <!---
